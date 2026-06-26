@@ -1,7 +1,5 @@
 #EXTM3U
-# Playlist generated from http://198.195.239.50/
-# Total channels: 56
-
+# Generated from LiveTV
 #EXTINF:-1 group-title="Sports" logo="img/channels/PTV SPORTS HD.png",PTV
 http://198.195.239.50:8095/ptv/index.m3u8
 #EXTINF:-1 group-title="Sports" logo="img/channels/SOMOY TV.png",SHOMOY TV HD
