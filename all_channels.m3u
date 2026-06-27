@@ -63,185 +63,185 @@ http://198.195.239.50:8095/unt-s/video.m3u8
 #EXTINF:-1 group-title="Sports" logo="img/channels/BTV.HD.png",BTV (2)
 http://198.195.239.50:8095/btv/video.m3u8
 #EXTINF:-1 group-title="Texas - Sports" logo="http://10.99.99.99/assets/images/A SPORTS HD1745044782.png",A SPORTS HD
-http://10.99.99.99:8082/A.SPORTS.HD/index.m3u8?token=b0e309d0364ba45a76dba39fb29077aee1bcce0f-f4be28a44bf8e54deab9f6ce19c051c9-1782560668-1782549868&remote=no_check_ip
+http://10.99.99.99:8082/A.SPORTS.HD/index.m3u8?token=0d06d8398e98388e9c943b156f6a9d76137cd456-2650497580b2017a2b31bde13cf4832f-1782585518-1782574718&remote=no_check_ip
 #EXTINF:-1 group-title="Texas - English" logo="http://10.99.99.99/assets/images/ALJAZEETA HD1745044358.png",ALJAZEETA HD
-http://10.99.99.99:8082/ALJAZEERA.HD/index.m3u8?token=a2cb74138aafe8b1e0f0dd300c3960c0cac84671-3a9789840b837aee3d8663cf7fd3e215-1782560668-1782549868&remote=no_check_ip
+http://10.99.99.99:8082/ALJAZEERA.HD/index.m3u8?token=f898a84aea7b4a41911325bde16ba1368e147277-82e3109b009b3a6279b3ba4628841cb7-1782585518-1782574718&remote=no_check_ip
 #EXTINF:-1 group-title="Texas - English" logo="http://10.99.99.99/assets/images/AND FLIX HD1745040018.png",AND FLIX HD
-http://10.99.99.99:8082/AND.FLIX.HD/index.m3u8?token=cebac267bdaf10b011d07c68ccf7ff5da8dba878-136f54de16c1cba4335de7a6bf980255-1782560668-1782549868&remote=no_check_ip
+http://10.99.99.99:8082/AND.FLIX.HD/index.m3u8?token=572123236ee5126157f14d3a0847ba5211c5d892-2232ea44cc26cb0a04b52a57c5ddc701-1782585518-1782574718&remote=no_check_ip
 #EXTINF:-1 group-title="Texas - Hindi" logo="http://10.99.99.99/assets/images/AND PICTURS HD1745031440.png",AND PICTURS HD
-http://10.99.99.99:8082/ANT.PICTURS.HD/index.m3u8?token=30ee5426cd79981dfac9ecbaa3c7c559bcb34b48-3f2368ef00bcb9c9264af6eef2a5ffb5-1782560669-1782549869&remote=no_check_ip
+http://10.99.99.99:8082/ANT.PICTURS.HD/index.m3u8?token=5b0d54a64e5e27be35325e435cde7070c05b0e10-70183338614c06e304824db05027e286-1782585518-1782574718&remote=no_check_ip
 #EXTINF:-1 group-title="Texas - English" logo="http://10.99.99.99/assets/images/AND PRIVE HD1745040451.png",AND PRIVE HD
-http://10.99.99.99:8082/AND.PRIVE.HD/index.m3u8?token=138b83d94c4240f60d608aff50f1ca3885d6bb8b-50e9bab94dcf1976d4128a4c46721ac0-1782560669-1782549869&remote=no_check_ip
+http://10.99.99.99:8082/AND.PRIVE.HD/index.m3u8?token=df7b810b7b8a80e0ad952fa557c04af049f94d5a-1bceb82b34b127001acf80ad990013f5-1782585518-1782574718&remote=no_check_ip
 #EXTINF:-1 group-title="Texas - English" logo="http://10.99.99.99/assets/images/AND XPLORE1745043080.png",AND XPLORE
-http://10.99.99.99:8082/XPLOR.HD/index.m3u8?token=d8eeb2ae20260b9f286113aba9efb3b63dc5fd27-c7928a2744b281a61432658f1af08493-1782560669-1782549869&remote=no_check_ip
+http://10.99.99.99:8082/XPLOR.HD/index.m3u8?token=811be9cd8bb26bbaf0282346a1290495ff2b1c7b-4a4bd70b4df22aff84f6db28499e54b0-1782585518-1782574718&remote=no_check_ip
 #EXTINF:-1 group-title="Texas - English" logo="http://10.99.99.99/assets/images/ANIMAL PLANET HD1745038671.png",ANIMAL PLANET HD
-http://10.99.99.99:8082/ANIMAL.PLANET.HD/index.m3u8?token=b9a7affc053cafbcea223ea34474e49e427128a3-9d85f4e81ade70ae02227207cb11200d-1782560669-1782549869&remote=no_check_ip
+http://10.99.99.99:8082/ANIMAL.PLANET.HD/index.m3u8?token=5e5a708d6413d014ec85aea029c58c47572c196a-0d4a6146f142c2b8e91018f5b427b2c5-1782585518-1782574718&remote=no_check_ip
 #EXTINF:-1 group-title="Texas - Bangla" logo="http://10.99.99.99/assets/images/ATN BANGLA1745044183.png",ATN BANGLA
-http://10.99.99.99:8082/ATN.BANGLA.HD/index.m3u8?token=738965b48d7f4448036f816a82682697e68b30d2-71b0e71c9cbe812f6942c4bd955e16e4-1782560669-1782549869&remote=no_check_ip
+http://10.99.99.99:8082/ATN.BANGLA.HD/index.m3u8?token=fd4c73e77b6ab161a35ba1c9b96b2931c1cdc2c1-e43f852f519934e5f97f714b2bc78890-1782585518-1782574718&remote=no_check_ip
 #EXTINF:-1 group-title="Texas - Bangla" logo="http://10.99.99.99/assets/images/ATN NEWS1745045113.png",ATN NEWS
-http://10.99.99.99:8082/ATN.NEWS.HD/index.m3u8?token=2ef5da585d5bde4c7d0c9f961ae9b4a50cea63ec-158193e83fce89e924c966c9d473e6bf-1782560669-1782549869&remote=no_check_ip
+http://10.99.99.99:8082/ATN.NEWS.HD/index.m3u8?token=915c8c6f207118ae7122a0942740b4c6cc5467d8-04b871bfeec36bb2f432515bb373e453-1782585518-1782574718&remote=no_check_ip
 #EXTINF:-1 group-title="Texas - English" logo="http://10.99.99.99/assets/images/AXN HD1745045171.png",AXN HD
-http://10.99.99.99:8082/AXN.HD/index.m3u8?token=9ff79f4a25445b52aa7762c723745b9fb49c29ca-1e2c8b6f93d5e055450d10898971262d-1782560669-1782549869&remote=no_check_ip
+http://10.99.99.99:8082/AXN.HD/index.m3u8?token=81f9cc426925f2f91761fa73a5ee672df63f9a32-4d68d1eebb811da5bfbf6c38a5902e46-1782585518-1782574718&remote=no_check_ip
 #EXTINF:-1 group-title="Texas - Kids" logo="http://10.99.99.99/assets/images/BAL BHARAT1745041576.png",BAL BHARAT
-http://10.99.99.99:8082/ETV.BAL.BHARAT/index.m3u8?token=c1d5c33104cf45a7f9f602635975a8dc7da80174-3b990dbc0d541d621b6148825fa01235-1782560669-1782549869&remote=no_check_ip
+http://10.99.99.99:8082/ETV.BAL.BHARAT/index.m3u8?token=f5933f1af1315f0127b32e1f069026092c6faf7f-ed4301ab4cfdb07250c3d1f8d005cf1e-1782585518-1782574718&remote=no_check_ip
 #EXTINF:-1 group-title="Texas - English" logo="http://10.99.99.99/assets/images/BBC EARTH HD1745150455.png",BBC EARTH HD
-http://10.99.99.99:8082/BBC.Earth.HD/index.m3u8?token=75ea3c2b1bc948f29a56de14322fcddc01e6f2f0-78c6b48171d1792a3e6c29647dac56bc-1782560669-1782549869&remote=no_check_ip
+http://10.99.99.99:8082/BBC.Earth.HD/index.m3u8?token=abe6984d9102c0277b175c191f29676426ab8387-a1538119be631c418f79073cec3496d8-1782585518-1782574718&remote=no_check_ip
 #EXTINF:-1 group-title="Texas - Kids" logo="http://10.99.99.99/assets/images/CARTOON NETWORK1745033414.png",CARTOON NETWORK
-http://10.99.99.99:8082/CARTON.NETWORK.HD/index.m3u8?token=c32f48157b7e723e57f47c936bfa2ea42bb52786-8aeb61a0184a9c3fa27c106bef351ada-1782560669-1782549869&remote=no_check_ip
+http://10.99.99.99:8082/CARTON.NETWORK.HD/index.m3u8?token=313fac8251523c7a58f284f811323586b2c9b458-da2e6e5326d946ba1f11e68d05f09bee-1782585518-1782574718&remote=no_check_ip
 #EXTINF:-1 group-title="Texas - Bangla" logo="http://10.99.99.99/assets/images/CHANNEL 241745044263.png",CHANNEL 24
-http://10.99.99.99:8082/CHANNEL.24.HD/index.m3u8?token=397f4ea35aaeb19820dae69600c5786a19750616-074e689e508cb5fe5ca320705d68f6f8-1782560669-1782549869&remote=no_check_ip
+http://10.99.99.99:8082/CHANNEL.24.HD/index.m3u8?token=444d18e60f56c5b3ffb8ad1b65fa7a081bfd3eb5-330960ab5d1b2476aa2011f8ddc326c2-1782585518-1782574718&remote=no_check_ip
 #EXTINF:-1 group-title="Texas - Bangla" logo="http://10.99.99.99/assets/images/CHANNEL I1745044237.png",CHANNEL I
-http://10.99.99.99:8082/CHANNEL.I.HD/index.m3u8?token=cc45d72758687fb40881f77992b3e8dfe34e2410-b76cc8f4347fb8d2ee3867a13c0c2770-1782560670-1782549870&remote=no_check_ip
+http://10.99.99.99:8082/CHANNEL.I.HD/index.m3u8?token=24eb55b76b79849cfc12e9743fc6f10dd077ca14-82da5cdbc12bd3e8bc0c69cf4462accd-1782585518-1782574718&remote=no_check_ip
 #EXTINF:-1 group-title="Texas - Bangla" logo="http://10.99.99.99/assets/images/COLORS BANGLA CINEMA1745041486.png",COLORS BANGLA CINEMA
-http://10.99.99.99:8082/COLORS.BANGLA.CINEMA/index.m3u8?token=7648a0c214242d84cfcc2d7f03547b11b401a54a-afbf3f7ec600dc6aaf3b75951951c1f5-1782560670-1782549870&remote=no_check_ip
+http://10.99.99.99:8082/COLORS.BANGLA.CINEMA/index.m3u8?token=7c719dd9e5219ab8da1d2694258136724d909438-b6c736bab0bc1de977bd5f590bc2cceb-1782585518-1782574718&remote=no_check_ip
 #EXTINF:-1 group-title="Texas - Bangla" logo="http://10.99.99.99/assets/images/COLORS BANGLA HD1745033576.png",COLORS BANGLA HD
-http://10.99.99.99:8082/COLORS.BANGLA.HD/index.m3u8?token=524dd68c5f8963a9f449821bd72afa8b01ce86bc-5f25b1cf33983e0fc05d65b5f842e57f-1782560670-1782549870&remote=no_check_ip
+http://10.99.99.99:8082/COLORS.BANGLA.HD/index.m3u8?token=afcea9461dcccc557002f66468a59c61ea7da095-e7c3c1bc8c82d62a6bbb9a029ee7c025-1782585518-1782574718&remote=no_check_ip
 #EXTINF:-1 group-title="Texas - Hindi" logo="http://10.99.99.99/assets/images/COLORS CINEPLEX HD1745033519.png",COLORS CINEPLEX HD
-http://10.99.99.99:8082/COLORS.CINEPLEX.HD/index.m3u8?token=51f6354f89b03dad84d71c817deb125cc131995b-12f66e9a66e591ff86e8e108e951fe30-1782560670-1782549870&remote=no_check_ip
+http://10.99.99.99:8082/COLORS.CINEPLEX.HD/index.m3u8?token=fb9d87167f67b6324cfdcfe3abf1326201aab7d3-902d4703e7897cfd6697bf482866e8fd-1782585518-1782574718&remote=no_check_ip
 #EXTINF:-1 group-title="Texas - Hindi" logo="http://10.99.99.99/assets/images/COLORS HD1745031404.png",COLORS HD
-http://10.99.99.99:8082/COLORS.HD/index.m3u8?token=9ea78e9489790713b921180a93bec55c3eced3ba-f94a930b407a9ff7d3a8cf01c84a6137-1782560670-1782549870&remote=no_check_ip
+http://10.99.99.99:8082/COLORS.HD/index.m3u8?token=6e6b83f8a1abfabfa41b6d4595d6feafa2971aaa-4c41a393a04d6f6a6568fa64c27ed522-1782585519-1782574719&remote=no_check_ip
 #EXTINF:-1 group-title="Texas - English" logo="http://10.99.99.99/assets/images/discovery hd.png",DISCOVERY HD
-http://10.99.99.99:8082/DISCOVERY.HD/index.m3u8?token=3d31108685060b23760a29fe543158b84f068183-35d7e1078445da97953cb07bc14eda34-1782560670-1782549870&remote=no_check_ip
+http://10.99.99.99:8082/DISCOVERY.HD/index.m3u8?token=a61d80eb9e9fbeed365695539c898962cc1ea1bd-131f4fced900b98e166223eae928821a-1782585519-1782574719&remote=no_check_ip
 #EXTINF:-1 group-title="Texas - Kids" logo="http://10.99.99.99/assets/images/DURANTA TV1745043400.png",DURANTA TV
-http://10.99.99.99:8082/DURANTA.TV.HD/index.m3u8?token=6015d3ca4aeea9571d486603c55bedafcbd0a90f-9b76ed1165eb71a1e78ee630cd6d329f-1782560670-1782549870&remote=no_check_ip
+http://10.99.99.99:8082/DURANTA.TV.HD/index.m3u8?token=555cd0a22df5ac09be20cc44147e791f2c43270a-7952eac9474d9700c1aa76385b4ff001-1782585519-1782574719&remote=no_check_ip
 #EXTINF:-1 group-title="Texas - Bangla" logo="http://10.99.99.99/assets/images/ENTERR 101745044330.png",ENTERR 10
-http://10.99.99.99:8082/ENTER10.BANGLA/index.m3u8?token=18d47edcd6c03298a6415da598938de12e995f2a-5d2ac44409695e782eb443c3ac6c83b1-1782560670-1782549870&remote=no_check_ip
+http://10.99.99.99:8082/ENTER10.BANGLA/index.m3u8?token=e8a3824f0a88e53e5054334c7dee5ef23c3845f7-c25cae50925aa384f2c04066c52dc201-1782585519-1782574719&remote=no_check_ip
 #EXTINF:-1 group-title="Texas - Sports" logo="http://10.99.99.99/assets/images/EUROSPORTS HD1745040406.png",EUROSPORTS HD
-http://10.99.99.99:8082/EUROSPORTS.HD/index.m3u8?token=42a96bf1dbd2236362d5ef4ead31e8e1cadc0ab5-a47095bd1fad6124b0f1978c25f9ac43-1782560670-1782549870&remote=no_check_ip
+http://10.99.99.99:8082/EUROSPORTS.HD/index.m3u8?token=f3efdb07c8bfa472d973ddbcf24abac1e1ed183d-4b8e2b30b59e8a505c6784c6f004e3ae-1782585519-1782574719&remote=no_check_ip
 #EXTINF:-1 group-title="Texas - Sports" logo="http://10.99.99.99/assets/images/FAST SPORTS HD1745044750.png",FAST SPORTS HD
-http://10.99.99.99:8082/FAST.SPORTS.HD/index.m3u8?token=ad1e6e48e0c9353123268eab23d62e84a4e05032-5d8ff8c73f2323b8cc58f5096a2538eb-1782560670-1782549870&remote=no_check_ip
+http://10.99.99.99:8082/FAST.SPORTS.HD/index.m3u8?token=670b928af79a0975a68b97926da51d021991fea7-f3e6f32eec58770e5bae671c4f673ccd-1782585519-1782574719&remote=no_check_ip
 #EXTINF:-1 group-title="Texas - Hindi" logo="http://10.99.99.99/assets/images/GEO NEWS HD1745044892.png",GEO NEWS HD
-http://10.99.99.99:8082/GEO.NEWS.HD/index.m3u8?token=66dc38846987d3ce21544cd45f47f4abb70bf0eb-62a4b75e205e9aae1b2be5e40ea02fe9-1782560670-1782549870&remote=no_check_ip
+http://10.99.99.99:8082/GEO.NEWS.HD/index.m3u8?token=f2f06ee0198121861b19e26a07ee2b5c4d0c0219-4673082a709aa40c694e8d7d4d8bfbec-1782585519-1782574719&remote=no_check_ip
 #EXTINF:-1 group-title="Texas - Sports" logo="http://10.99.99.99/assets/images/GOLF SPORTS1745043338.png",GOLF SPORTS
-http://10.99.99.99:8082/GOLF.SPORTS/index.m3u8?token=d1876d5c8e9ec3f75caf0e28050a7dd4572ab594-08cd3d4f4e27cea0b6f075835ff19419-1782560670-1782549870&remote=no_check_ip
+http://10.99.99.99:8082/GOLF.SPORTS/index.m3u8?token=0399eed8d73ccf431c1ab44cd7a72a4cb2e7d693-d93df1741035a82931a0bcd3ee505105-1782585519-1782574719&remote=no_check_ip
 #EXTINF:-1 group-title="Texas - Bangla" logo="http://10.99.99.99/assets/images/GTV1745042853.png",GTV
-http://10.99.99.99:8082/GAZI.TV.HD/index.m3u8?token=02fe1853a764b9719832d08413668689f928014f-79a19a37d345d59c6ecf72acf2fc3c9a-1782560670-1782549870&remote=no_check_ip
+http://10.99.99.99:8082/GAZI.TV.HD/index.m3u8?token=25dfb2405ab9632569955e013ac47d409929934f-a505eba9c57084d8294ac1da95d59491-1782585519-1782574719&remote=no_check_ip
 #EXTINF:-1 group-title="Texas - English" logo="http://10.99.99.99/assets/images/HISTORY TV HD1745033679.png",HISTORY TV HD
-http://10.99.99.99:8082/HISTORY.TV.18.HD/index.m3u8?token=068d7c372e2ff1f4bab4dba8d0470bd0bd30261f-f99dee0b0189ff9b01b074ae04c14079-1782560671-1782549871&remote=no_check_ip
+http://10.99.99.99:8082/HISTORY.TV.18.HD/index.m3u8?token=9d7e417636836ec90db1a985ef2f91dc31e0a5c2-fb121752765ca25612330297022923c1-1782585519-1782574719&remote=no_check_ip
 #EXTINF:-1 group-title="Texas - English" logo="http://10.99.99.99/assets/images/HITZ MUSIC1745043478.png",HITZ MUSIC
-http://10.99.99.99:8082/HITS.MUSIC.HD/index.m3u8?token=aeceb22d4d6fa4597f87938fb883e1d149073501-b891ec7f8cc098957df95c17f30b789e-1782560672-1782549872&remote=no_check_ip
+http://10.99.99.99:8082/HITS.MUSIC.HD/index.m3u8?token=62b65a2434df766ef6fb84578ebc5d5667500e66-13670bf9e2313f8a391d2c1272e7d78a-1782585519-1782574719&remote=no_check_ip
 #EXTINF:-1 group-title="Texas - Hindi" logo="http://10.99.99.99/assets/images/HUM TV1745044837.png",HUM TV
-http://10.99.99.99:8082/HUM.MASALA.TV/index.m3u8?token=6ba0b8083dc6d84d02bfd2ca44c97341a1ec96ab-c9ebe7be0729882989b8c358696d6524-1782560672-1782549872&remote=no_check_ip
+http://10.99.99.99:8082/HUM.MASALA.TV/index.m3u8?token=e491e1ca1eb067317a1d60976cce7197f985c8ea-4efd1f2d96f50c349ef07bb614002338-1782585519-1782574719&remote=no_check_ip
 #EXTINF:-1 group-title="Texas - Kids" logo="http://10.99.99.99/assets/images/HUNGAMA1745041551.png",HUNGAMA
-http://10.99.99.99:8082/HUNGAMA/index.m3u8?token=530f7d849b69f0cf019e22ad1120f3d503df71ad-ffad95c1bf8cb4500cc062c5ffbfb95d-1782560672-1782549872&remote=no_check_ip
+http://10.99.99.99:8082/HUNGAMA/index.m3u8?token=63f6ead05263ddb22ef54909394908756a275d4e-31e73caa0c70341b131786f49d1e086b-1782585519-1782574719&remote=no_check_ip
 #EXTINF:-1 group-title="Texas - Bangla" logo="http://10.99.99.99/assets/images/INDEPENDENT TV1745044077.png",INDEPENDENT TV
-http://10.99.99.99:8082/INDEPENDENT.TV/index.m3u8?token=da57cfe813d2f7a900dc8adc8f3181d1bce40e53-715a5c78589f4602194499c213dac18d-1782560672-1782549872&remote=no_check_ip
+http://10.99.99.99:8082/INDEPENDENT.TV/index.m3u8?token=62599a3d440a8145ad1868c2b9f92b33bcf3bfeb-d10dd75a9d72c4d1d9b7a788524a75ac-1782585519-1782574719&remote=no_check_ip
 #EXTINF:-1 group-title="Texas - Bangla" logo="http://10.99.99.99/assets/images/JALSHA MOVIES HD1745034005.png",JALSHA MOVIES HD
-http://10.99.99.99:8082/JALSHA.MOVIES.HD/index.m3u8?token=e7580318693b65b994003b5dde8d9def55b12c5c-ac2ab7d4c14fc3ba7eef24477afd4cfd-1782560672-1782549872&remote=no_check_ip
+http://10.99.99.99:8082/JALSHA.MOVIES.HD/index.m3u8?token=1241650446355b70dfc16fbbc6043e2fdbce3a59-6e2596bcfce757f66a83dc3cf47ea8d4-1782585519-1782574719&remote=no_check_ip
 #EXTINF:-1 group-title="Texas - Bangla" logo="http://10.99.99.99/assets/images/JAMUNA TV1745044052.png",JAMUNA TV
-http://10.99.99.99:8082/JAMUNA.TV/index.m3u8?token=3c756cfca2380c55087dcffe4d9b7cd86007b72a-d8748bb7eddda608322883d63d5149fd-1782560672-1782549872&remote=no_check_ip
+http://10.99.99.99:8082/JAMUNA.TV/index.m3u8?token=5b437cbbac2c56abd242bcaf8638b0de2ab8c14b-3497c4f16e9e1c39bde630cf466aa9ff-1782585519-1782574719&remote=no_check_ip
 #EXTINF:-1 group-title="Texas - English" logo="http://10.99.99.99/assets/images/LOTUS TV1745044960.png",LOTUS TV
-http://10.99.99.99:8082/Lotus.TV.HD/index.m3u8?token=43fe0f97d880ba6013946d5e481e0d71abeaf1d8-8c751f22b3a7730df7b4f969650e54a3-1782560672-1782549872&remote=no_check_ip
+http://10.99.99.99:8082/Lotus.TV.HD/index.m3u8?token=265eb5c05fd004edf24dda530f0c4d2395ffe0c0-e700f6252b894147803510a89d4c623b-1782585519-1782574719&remote=no_check_ip
 #EXTINF:-1 group-title="Texas - English" logo="http://10.99.99.99/assets/images/LOVE NATURE1745043370.png",LOVE NATURE
-http://10.99.99.99:8082/LOVE.NATURE.HD/index.m3u8?token=284576073b694e0750d3a4ccf856766587e08462-a8bf71782d4c5e74b86ae72384d7af25-1782560673-1782549873&remote=no_check_ip
+http://10.99.99.99:8082/LOVE.NATURE.HD/index.m3u8?token=2747546684e632daa2c498689778f8496f4fa027-0879d7ac65208a9ead3863b3d624ad4f-1782585519-1782574719&remote=no_check_ip
 #EXTINF:-1 group-title="Texas - Bangla" logo="http://10.99.99.99/assets/images/MAASRANGA HD1745044117.png",MAASRANGA HD
-http://10.99.99.99:8082/MASRANGA.TV.HD/index.m3u8?token=7ec93de66341d17582de513ccc49357dd19804b9-63291c4cab366488650051d37b214e19-1782560673-1782549873&remote=no_check_ip
+http://10.99.99.99:8082/MASRANGA.TV.HD/index.m3u8?token=6af275676a15f6dde9127400e20cefb4a8acd6db-5473ce22b075e4cd84df859d261e86c4-1782585519-1782574719&remote=no_check_ip
 #EXTINF:-1 group-title="Texas - Islamic" logo="http://10.99.99.99/assets/images/MADANI TV HD1745044303.png",MADANI TV HD
-http://10.99.99.99:8082/MADANI.TV.HD/index.m3u8?token=b118858ecd1ce9241465031d19c60b5fa8b1d4fe-346dc08188c1a73a64479d4e74ffe34b-1782560673-1782549873&remote=no_check_ip
+http://10.99.99.99:8082/MADANI.TV.HD/index.m3u8?token=a64c6f1008f9eed935557d63c109ef6dd9f1a9e4-7b05c16a8e79b079ae23c1febcc8ab79-1782585519-1782574719&remote=no_check_ip
 #EXTINF:-1 group-title="Texas - English" logo="http://10.99.99.99/assets/images/MN PLUS1745040057.png",MN PLUS
-http://10.99.99.99:8082/MN.PLUS.HD/index.m3u8?token=03714cc607f088160db753599b6bfb0a0bba28c0-e8156cb9b77ea0a2291f77ecab0d9d08-1782560673-1782549873&remote=no_check_ip
+http://10.99.99.99:8082/MN.PLUS.HD/index.m3u8?token=ed0531ab06057a83a3c42ee86d87ba850bf2dc17-a1f2ad257c5b0e54e46f65bfae052ee9-1782585519-1782574719&remote=no_check_ip
 #EXTINF:-1 group-title="Texas - English" logo="http://10.99.99.99/assets/images/MNX HD1745039955.png",MNX HD
-http://10.99.99.99:8082/MNX.HD/index.m3u8?token=eafbd8de6dfdca5c4ab6e5630f9b2300cd7a983c-303f053d1299291af1ba66858f549e22-1782560673-1782549873&remote=no_check_ip
+http://10.99.99.99:8082/MNX.HD/index.m3u8?token=2b37bfda820fe3a1bfaa14b8e25c2a3b584a8623-9a189939275fff5721cafa7201b389cc-1782585519-1782574719&remote=no_check_ip
 #EXTINF:-1 group-title="Texas - English" logo="http://10.99.99.99/assets/images/MOVIES NOW HD1745040368.png",MOVIES NOW HD
-http://10.99.99.99:8082/MOVIES.NOW.HD/index.m3u8?token=bc99b3fd723eb18869e22f26a3d6418de0959584-202254ebc78128299c779c0599261ec0-1782560673-1782549873&remote=no_check_ip
+http://10.99.99.99:8082/MOVIES.NOW.HD/index.m3u8?token=fac3e1b54e9fdb1f7cb37c73252fdd7f59385811-d1a33341fb9d593848433e3c628b5375-1782585519-1782574719&remote=no_check_ip
 #EXTINF:-1 group-title="Texas - Bangla" logo="http://10.99.99.99/assets/images/NAGORIK1745042776.png",NAGORIK
-http://10.99.99.99:8082/NAGORIK.TV.HD/index.m3u8?token=8495cdfc9d9ed04c5c8f61d761ee8f05d9b5022c-d7e3d0f5f80bcfe1f47989d3784f7400-1782560673-1782549873&remote=no_check_ip
+http://10.99.99.99:8082/NAGORIK.TV.HD/index.m3u8?token=8af38e446cfb59a118984878d262a98236bc7963-f5c916246919300f46f174ed11b3f0a5-1782585519-1782574719&remote=no_check_ip
 #EXTINF:-1 group-title="Texas - English" logo="http://10.99.99.99/assets/images/NATGEO HD1745038634.png",NATGEO HD
-http://10.99.99.99:8082/NATGEO.HD/index.m3u8?token=29a3857b692d35bb4f0652ddfcc8e653bdc51bbd-caf12e82558385b14916522da0a733a4-1782560673-1782549873&remote=no_check_ip
+http://10.99.99.99:8082/NATGEO.HD/index.m3u8?token=602d299fe1779cab68d08cb3c64eb6f33ef012c4-bbc7d666bd7e75f7d4d6e07adc43cc7c-1782585519-1782574719&remote=no_check_ip
 #EXTINF:-1 group-title="Texas - English" logo="http://10.99.99.99/assets/images/NATGEO WILD HD1745038542.png",NATGEO WILD HD
-http://10.99.99.99:8082/NATGEO.WILD.HD/index.m3u8?token=ca67c8eb3d5e3cb818fb02577d199f37bfae899f-ea89853cfcee3b84de6a0015bd8504c9-1782560673-1782549873&remote=no_check_ip
+http://10.99.99.99:8082/NATGEO.WILD.HD/index.m3u8?token=5767f76a0d2047620b7935c1da76451a6c05d9e3-e13cd72c8b336017e4e88025252ac485-1782585519-1782574719&remote=no_check_ip
 #EXTINF:-1 group-title="Texas - Kids" logo="http://10.99.99.99/assets/images/NICK1745041451.png",NICK
-http://10.99.99.99:8082/NICK/index.m3u8?token=41a637a0ba8a9537fbda7c94a7f972bd5a8ef7f0-c4857d384c549808acda451ca89870a6-1782560673-1782549873&remote=no_check_ip
+http://10.99.99.99:8082/NICK/index.m3u8?token=fb3c3a95b47843cffd4f7bde184f9418fe6127e4-5ced4523c649db4eae807f2346c4c5a5-1782585519-1782574719&remote=no_check_ip
 #EXTINF:-1 group-title="Texas - Kids" logo="http://10.99.99.99/assets/images/NICK JR1745042397.png",NICK JR
-http://10.99.99.99:8082/NICK.JR/index.m3u8?token=cf469bd0ad5855a4da27341d9970e653788a646c-a0e8067c8ec0c01d5332321a9fd17f54-1782560673-1782549873&remote=no_check_ip
+http://10.99.99.99:8082/NICK.JR/index.m3u8?token=8353f284f7aeaf0e6e18b24027cdab362bc65b48-1bd330d30be349f26fa5b942b93f8c9b-1782585519-1782574719&remote=no_check_ip
 #EXTINF:-1 group-title="Texas - Islamic" logo="http://10.99.99.99/assets/images/PEACE TV BANGLA1745044480.png",PEACE TV BANGLA
-http://10.99.99.99:8082/PEACE.TV.BANGLA.HD/index.m3u8?token=c460b1c672f03a98ab4d57459cc6f82050d4e800-5e275740ce067829a53abeee64c5cc55-1782560674-1782549874&remote=no_check_ip
+http://10.99.99.99:8082/PEACE.TV.BANGLA.HD/index.m3u8?token=1255667fd8a7e45d5104e6209dfa84857e422e22-8fa8bf24eabb555711a37ee3c9068fe2-1782585519-1782574719&remote=no_check_ip
 #EXTINF:-1 group-title="Texas - Kids" logo="http://10.99.99.99/assets/images/POGO1745041515.png",POGO
-http://10.99.99.99:8082/POGO/index.m3u8?token=10bf99fa97a97c7e2013cf0a983d40c48d23d05e-b286f4738ee3d6e24f2c44f9fbc709e6-1782560674-1782549874&remote=no_check_ip
+http://10.99.99.99:8082/POGO/index.m3u8?token=f042943c325926da4f897a089b55f932abdbed76-ffb2dda29b0f9f58377ec771c0ea21ae-1782585519-1782574719&remote=no_check_ip
 #EXTINF:-1 group-title="Texas - Sports" logo="http://10.99.99.99/assets/images/PTV SPORTS HD1745044993.png",PTV SPORTS HD
-http://10.99.99.99:8082/PTV-SPORTS-HD/index.m3u8?token=3881ee9d3f82da3c74f288c01625bab4d803e4d3-7c781ba9a7681b5f21cbdf335df3dba0-1782560674-1782549874&remote=no_check_ip
+http://10.99.99.99:8082/PTV-SPORTS-HD/index.m3u8?token=c178f0d38c291467616be9fd13ebdfff5d4a67e9-c96cf6938b5a957d30818038c6beecb5-1782585519-1782574719&remote=no_check_ip
 #EXTINF:-1 group-title="Texas - English" logo="http://10.99.99.99/assets/images/ROMEDY NOW1745039988.png",ROMEDY NOW
-http://10.99.99.99:8082/ROMEDY.NOW/index.m3u8?token=60a293afe490c8a407f1bc62c0cb01255b54136b-803ac44e00e436e3c56dc3106bae7708-1782560674-1782549874&remote=no_check_ip
+http://10.99.99.99:8082/ROMEDY.NOW/index.m3u8?token=f00fdd1246af279c4bef5bc457fc8dd3d76ed0eb-eba6d13a486bbd7715c41fb651d94f5d-1782585519-1782574719&remote=no_check_ip
 #EXTINF:-1 group-title="Texas - Bangla" logo="http://10.99.99.99/assets/images/SOMOY TV1745044149.png",SOMOY TV
-http://10.99.99.99:8082/SOMOY.TV.HD/index.m3u8?token=27433d0e5cb65c5ecb6bf560d66fc31ac23dcdc9-4680dea57b926ce59584c7b975b7b153-1782560674-1782549874&remote=no_check_ip
+http://10.99.99.99:8082/SOMOY.TV.HD/index.m3u8?token=4a71cceb70cf3c9780359f959ea409ae26e11e81-a4d704949250be607040fd17940286e5-1782585519-1782574719&remote=no_check_ip
 #EXTINF:-1 group-title="Texas - Kids" logo="http://10.99.99.99/assets/images/SONIC1745041154.png",SONIC
-http://10.99.99.99:8082/SONIC/index.m3u8?token=0bd5becd10cd8a359dc7aaf992ed3bdebc85d861-b0b272e40ecdba94c2b25a657296a3cd-1782560674-1782549874&remote=no_check_ip
+http://10.99.99.99:8082/SONIC/index.m3u8?token=127363b066b1d8afa80f2bb3c40f3c3150fcd9ad-e7239e1c35ebe3fd34a6be2b93487386-1782585519-1782574719&remote=no_check_ip
 #EXTINF:-1 group-title="Texas - Bangla" logo="http://10.99.99.99/assets/images/SONY AAT1745041124.png",SONY AAT
-http://10.99.99.99:8082/SONY.AAT/index.m3u8?token=53666a9f5a63b177191d6b69545563a64615bc00-573b30428340e34855bfda6d51ea7b8c-1782560674-1782549874&remote=no_check_ip
+http://10.99.99.99:8082/SONY.AAT/index.m3u8?token=f8f63696841c98e94b23e9e753d9d1072c175fa6-67833d2ed83413aeec3a17b3ce90f3ea-1782585519-1782574719&remote=no_check_ip
 #EXTINF:-1 group-title="Texas - English" logo="http://10.99.99.99/assets/images/SONY BBC EARTH HD1745031522.png",SONY BBC EARTH HD
-http://10.99.99.99:8082/SONY.BBC.EARTH.HD/index.m3u8?token=e14400e995811323391a9b6ab0193980cc0fde63-485064d1728103576072d27978817976-1782560674-1782549874&remote=no_check_ip
+http://10.99.99.99:8082/SONY.BBC.EARTH.HD/index.m3u8?token=f1ffa90cb57973bc70f657bd83b30fdebf55eb50-38a3ff16e9a4a23306a5dd96a907587e-1782585519-1782574719&remote=no_check_ip
 #EXTINF:-1 group-title="Texas - Hindi" logo="http://10.99.99.99/assets/images/SONY ENT HD1745033553.png",SONY ENT HD
-http://10.99.99.99:8082/SONY.ENT.HD/index.m3u8?token=407b8854303deec7cf822e6e5c2b861c04f21cd4-f2ae56f65cd9c6c0f5a06a53ef43680e-1782560674-1782549874&remote=no_check_ip
+http://10.99.99.99:8082/SONY.ENT.HD/index.m3u8?token=c93907c661c62c3e1bdf17ba0e610e1b19ed1f31-83c756351e305389622e32a7f456a8fc-1782585520-1782574720&remote=no_check_ip
 #EXTINF:-1 group-title="Texas - Hindi" logo="http://10.99.99.99/assets/images/SONY MAX HD1745034069.png",SONY MAX HD
-http://10.99.99.99:8082/SONY.MAX.HD/index.m3u8?token=42285bc080996cb059adb2f27b1cab79e14b6296-4986ee22b49b401c4892a8677b6e0cd9-1782560674-1782549874&remote=no_check_ip
+http://10.99.99.99:8082/SONY.MAX.HD/index.m3u8?token=a52d887d6d2579ebfb1a54aff2996588c4f32268-ff0eaa90842439ba31b27ec39c344a35-1782585520-1782574720&remote=no_check_ip
 #EXTINF:-1 group-title="Texas - English" logo="http://10.99.99.99/assets/images/SONY PIX HD1745039925.png",SONY PIX HD
-http://10.99.99.99:8082/SONY.PIX.HD/index.m3u8?token=bc51a8bb11f811628d4ba28437dd258ffad2976b-8c0ddf137e5f86d7ea1dee812a860c64-1782560674-1782549874&remote=no_check_ip
+http://10.99.99.99:8082/SONY.PIX.HD/index.m3u8?token=516186b13f790aa9f2ecfbd0a174175bfbaa872d-8a157b120c5717383fff815a4b3dc87c-1782585520-1782574720&remote=no_check_ip
 #EXTINF:-1 group-title="Texas - Sports" logo="http://10.99.99.99/assets/images/sony sports 1 hd.png",SONY SPORTS 1 HD
-http://10.99.99.99:8082/SONY.SPORTS.1HD/index.m3u8?token=601eef766bf6870b0738083d36fbcd403a517fb8-114ad1115f1b7e33e3fb7373a1b9bc98-1782560674-1782549874&remote=no_check_ip
+http://10.99.99.99:8082/SONY.SPORTS.1HD/index.m3u8?token=c29906d74ea047577e9b0c90c03668da66686346-439a4b85881714a00abb03bd30f19a48-1782585520-1782574720&remote=no_check_ip
 #EXTINF:-1 group-title="Texas - Sports" logo="http://10.99.99.99/assets/images/sony sports 2 hd.png",SONY SPORTS 2 HD
-http://10.99.99.99:8082/SONY.SPORTS2.HD/index.m3u8?token=6ccf07ae416e9b8211d6c607e86456e4d36df979-d9cef90fb6709ae1d1dd9bdfd9a6ba2c-1782560674-1782549874&remote=no_check_ip
+http://10.99.99.99:8082/SONY.SPORTS2.HD/index.m3u8?token=b8af286cd6a3933c17574a3ae540f38c77e586d5-153a9e5289428aa7b5e90f1470a5ef32-1782585520-1782574720&remote=no_check_ip
 #EXTINF:-1 group-title="Texas - Sports" logo="http://10.99.99.99/assets/images/Sony sports 3.png",SONY SPORTS 3
-http://10.99.99.99:8082/SONY.SPORTS.3/index.m3u8?token=a319abdaccfb75bcaf14312facf64db4020f3845-25397c01b3883e0e92c1a9cca323db7b-1782560674-1782549874&remote=no_check_ip
+http://10.99.99.99:8082/SONY.SPORTS.3/index.m3u8?token=d83ab29f60ba7d8a6f19cdc0e9ec709ef4ed5f7c-fc1f1b1a57aac2d15ed1cb7fa5d0a25f-1782585520-1782574720&remote=no_check_ip
 #EXTINF:-1 group-title="Texas - Sports" logo="http://10.99.99.99/assets/images/sony sports 4.png",SONY SPORTS 4
-http://10.99.99.99:8082/SONY.SPORTS.4/index.m3u8?token=6cfe33ec581eaf7dcce56556a8ef36b408afe821-dc3b46a6d86f200feb18287706821c29-1782560674-1782549874&remote=no_check_ip
+http://10.99.99.99:8082/SONY.SPORTS.4/index.m3u8?token=393deb66f4a5888453283ad5ef41e5e8d7fdb8ee-19445207c8ac7067ab52d38a7f872f4a-1782585520-1782574720&remote=no_check_ip
 #EXTINF:-1 group-title="Texas - Sports" logo="http://10.99.99.99/assets/images/sony sports 5 hd.png",SONY SPORTS 5 HD
-http://10.99.99.99:8082/SONY-SPORTS.5HD/index.m3u8?token=c8efc4d5f5bfdf747ce67cea2edd0ef02ecbbdfd-499fbbf4cb1dd560509307c62eaa5575-1782560674-1782549874&remote=no_check_ip
+http://10.99.99.99:8082/SONY-SPORTS.5HD/index.m3u8?token=8f678c85aeb82af5ddabd5351145703f5a20e30b-5ff47c40ced73461b1a54b9d2756d7a3-1782585520-1782574720&remote=no_check_ip
 #EXTINF:-1 group-title="Texas - Kids" logo="http://10.99.99.99/assets/images/SONY YAY1745045046.png",SONY YAY
-http://10.99.99.99:8082/SONY.YAY/index.m3u8?token=6b90126a522e8c8ac74fe59dc6f15aef5c40d261-5028202cc83a32b3f40173688660e645-1782560674-1782549874&remote=no_check_ip
+http://10.99.99.99:8082/SONY.YAY/index.m3u8?token=6c6eb81d75f620598c238205f46e1763f8930f6a-b40dbad33b8fcb7d1fb01fcd5f152a80-1782585520-1782574720&remote=no_check_ip
 #EXTINF:-1 group-title="Texas - Sports" logo="http://10.99.99.99/assets/images/ssc 1 hd.png",SSC SPORTS
-http://10.99.99.99:8082/SSC.SPORTS.1.HD/index.m3u8?token=e8e740a674ef6ddc541bf5c1385fcc35c8a6d8bf-2449092b9589a6f0e6532013f9dedb05-1782560674-1782549874&remote=no_check_ip
+http://10.99.99.99:8082/SSC.SPORTS.1.HD/index.m3u8?token=4d7bf738b0d4dd2afc2e070e13df555f2bd3a055-7c10c0f06ecd6c6153ab70317da55980-1782585520-1782574720&remote=no_check_ip
 #EXTINF:-1 group-title="Texas - Sports" logo="http://10.99.99.99/assets/images/ssc 5 hd.png",SSC SPORTS 5 HD
-http://10.99.99.99:8082/SSC.SPORTS.5.HD/index.m3u8?token=2f9c81b8fa841604bef12183e19f1670367eb869-7363be4c0ade7fa18f434fa256e60a12-1782560674-1782549874&remote=no_check_ip
+http://10.99.99.99:8082/SSC.SPORTS.5.HD/index.m3u8?token=fc9dade6d6e4b6d504b5e4c4f562cb890a11c861-6dfb864fa56fc494356c6fcd39ac6502-1782585520-1782574720&remote=no_check_ip
 #EXTINF:-1 group-title="Texas - Hindi" logo="http://10.99.99.99/assets/images/STAR BHARAT HD1745045255.png",STAR BHARAT HD
-http://10.99.99.99:8082/STAR.BHARAT.HD/index.m3u8?token=bd116b6aa9fd06dbfb2e5f939c23a04661e85c44-a5508e70fb9c09aaa1562a69f8200d1d-1782560674-1782549874&remote=no_check_ip
+http://10.99.99.99:8082/STAR.BHARAT.HD/index.m3u8?token=29fb2d93ed7b2bccfba4fa31a5fb7d69ee17edc9-2eb71627bd4702375ea35b2acc33f98f-1782585520-1782574720&remote=no_check_ip
 #EXTINF:-1 group-title="Texas - Hindi" logo="http://10.99.99.99/assets/images/STAR GOLD 2 HD1745043441.png",STAR GOLD 2 HD
-http://10.99.99.99:8082/STAR.GOLD2.HD/index.m3u8?token=b2d1fef66f5475cc688a5655bb32d0832381e9f8-504328108273aa62280d59d69a668140-1782560674-1782549874&remote=no_check_ip
+http://10.99.99.99:8082/STAR.GOLD2.HD/index.m3u8?token=049f4e014c78eb6a184fd6119901e5de41191979-20191d2ec9fed5d7c5c0eeec2a3fdbf6-1782585520-1782574720&remote=no_check_ip
 #EXTINF:-1 group-title="Texas - Hindi" logo="http://10.99.99.99/assets/images/STAR GOLD HD1745034037.png",STAR GOLD HD
-http://10.99.99.99:8082/STAR.GOLD.HD/index.m3u8?token=d02ca14f7c6a97740f01f73892bf2eea3ce7d442-d235ae0a9cb9ba0728e1fd6782dedb72-1782560674-1782549874&remote=no_check_ip
+http://10.99.99.99:8082/STAR.GOLD.HD/index.m3u8?token=5d8bb8477087a6bf5028234f4170d4492fd9eae5-f9d688d5594d45b58f0c83b9a4417fd4-1782585520-1782574720&remote=no_check_ip
 #EXTINF:-1 group-title="Texas - Hindi" logo="http://10.99.99.99/assets/images/STAR GOLD SELECT HD1745043508.png",STAR GOLD SELECT HD
-http://10.99.99.99:8082/STAR.GOLD.SEL.HD/index.m3u8?token=0e47922a69d14e426c52d2788cf65f60a0bdef5d-7f2fc5150ff2fb7f7097e7adaffe97b2-1782560674-1782549874&remote=no_check_ip
+http://10.99.99.99:8082/STAR.GOLD.SEL.HD/index.m3u8?token=9197e56b25b35ebf8240a6a71a9f443dcd6545a9-d84e52a29abb5d543b3119b4bb6b2477-1782585520-1782574720&remote=no_check_ip
 #EXTINF:-1 group-title="Texas - Bangla" logo="http://10.99.99.99/assets/images/STAR JALSHA HD1745033819.png",STAR JALSHA HD
-http://10.99.99.99:8082/STAR.JALSHA.HD/index.m3u8?token=79bea6e5a1f6fc7753f8f2734013243cc93839ce-3241d1f7e1e71b423da7f9100ab9f977-1782560674-1782549874&remote=no_check_ip
+http://10.99.99.99:8082/STAR.JALSHA.HD/index.m3u8?token=c35b5418d5c34d6d1204f8912a9ced2e727a1d61-3a132cb4dc1adf926704f8f5fd04d40e-1782585520-1782574720&remote=no_check_ip
 #EXTINF:-1 group-title="Texas - English" logo="http://10.99.99.99/assets/images/STAR MOVIES HD1745040174.png",STAR MOVIES HD
-http://10.99.99.99:8082/STAR.MOVIES.HD/index.m3u8?token=c381dbc5b8f14b683a725fdb09aa852013da5a7e-56bb4c60fea866bf9a2939ae058b22ad-1782560674-1782549874&remote=no_check_ip
+http://10.99.99.99:8082/STAR.MOVIES.HD/index.m3u8?token=014630d5311054d942b1d6e15b3c89e66382b7fa-c1d8413fa1b987fc9d574c4e31a5bfb5-1782585520-1782574720&remote=no_check_ip
 #EXTINF:-1 group-title="Texas - English" logo="http://10.99.99.99/assets/images/STAR MOVIES SELECT HD1745038723.png",STAR MOVIES SELECT HD
-http://10.99.99.99:8082/STAR.MOVIES.SEL.HD/index.m3u8?token=97dd9b8c1d7c7c7dc7f08f71441c0e1a1065a5ee-f87bf830651d32b893dccf5df35b32e2-1782560674-1782549874&remote=no_check_ip
+http://10.99.99.99:8082/STAR.MOVIES.SEL.HD/index.m3u8?token=6226549158deb8abad320465269d4ca7ebd5e1c7-6bbbc4cd30683c65cbba99b5e7438f5e-1782585520-1782574720&remote=no_check_ip
 #EXTINF:-1 group-title="Texas - Hindi" logo="http://10.99.99.99/assets/images/STAR PLUS HD1745038577.png",STAR PLUS HD
-http://10.99.99.99:8082/STAR.PLUS.HD/index.m3u8?token=31c7912034241860e5172227a562e4975fdf13b4-e1b36c3ec3b1965a8ac33942a5606c21-1782560675-1782549875&remote=no_check_ip
+http://10.99.99.99:8082/STAR.PLUS.HD/index.m3u8?token=c9f4f448df7bcd8f0c79ba8d1623b5c7f4cd3a01-c5bbde3d136e7cc35929427dc0d32426-1782585520-1782574720&remote=no_check_ip
 #EXTINF:-1 group-title="Texas - Sports" logo="http://10.99.99.99/assets/images/STAR SELECT 1 HD1745038777.png",STAR SELECT 1 HD
-http://10.99.99.99:8082/STAR.SPORTS-SEL1.HD/index.m3u8?token=fbe34ad4034947384badb763af403ae547c51b7a-d2ba6ebf3a81b5da74a0f13070b22175-1782560675-1782549875&remote=no_check_ip
+http://10.99.99.99:8082/STAR.SPORTS-SEL1.HD/index.m3u8?token=6d6f17f46f66d7f549eeaf4c9536d7b7af0c685e-454fe2759395eeccba9b30a50a435454-1782585520-1782574720&remote=no_check_ip
 #EXTINF:-1 group-title="Texas - Sports" logo="http://10.99.99.99/assets/images/STAR SPORTS 1 HD1744991778.png",STAR SPORTS 1 HD
-http://10.99.99.99:8082/STAR.SPORTS1.HD/index.m3u8?token=d671d08bb72d674d04028bb78daa600d7c0a16e4-c9a9f2a045d33e10675be08137406255-1782560675-1782549875&remote=no_check_ip
+http://10.99.99.99:8082/STAR.SPORTS1.HD/index.m3u8?token=30374eee40fd28caba3201cd61c249ba049ca2d0-aae999844e5205faa53e7095d253b3b8-1782585520-1782574720&remote=no_check_ip
 #EXTINF:-1 group-title="Texas - Sports" logo="http://10.99.99.99/assets/images/STAR SPORTS 2 HD1744991842.png",STAR SPORTS 2 HD
-http://10.99.99.99:8082/STAR.SPORTS2.HD/index.m3u8?token=d7020d9a7a8160103e509cdc2ee8303849223caa-57d4e0f4a0cd6c3d988f224ff35f8131-1782560675-1782549875&remote=no_check_ip
+http://10.99.99.99:8082/STAR.SPORTS2.HD/index.m3u8?token=ac30a478222c5823ea7a00bd5d178bcfc1759576-643f2055929b6d61b148ed07fa0a4423-1782585520-1782574720&remote=no_check_ip
 #EXTINF:-1 group-title="Texas - Sports" logo="http://10.99.99.99/assets/images/STAR SPORTS 31745039893.png",STAR SPORTS 3
-http://10.99.99.99:8082/STAR-SPORTS.3/index.m3u8?token=d631c1337a1967bbd08695175b1f60b2ef09531d-2036979bd30abf7950e924e53eb58d10-1782560675-1782549875&remote=no_check_ip
+http://10.99.99.99:8082/STAR-SPORTS.3/index.m3u8?token=90324f67554b20866eea76ff1d1540262e5eb809-3c3ef893f05b5ba43fb04987b4590b81-1782585520-1782574720&remote=no_check_ip
 #EXTINF:-1 group-title="Texas - Sports" logo="http://10.99.99.99/assets/images/STAR SPORTS SELECT 2 HD1745033722.png",STAR SPORTS SELECT 2 HD
-http://10.99.99.99:8082/STAR.SPORTS.SEL.2.HD/index.m3u8?token=fcc333d43b52a6b0aa5ddd3684098df0378aa22d-8fd6d9734d06994589e1d54b784950fd-1782560675-1782549875&remote=no_check_ip
+http://10.99.99.99:8082/STAR.SPORTS.SEL.2.HD/index.m3u8?token=07b7df9685730d19bd3943ae745f0fef4558ad6d-b725b99c6e63893f4cc88a3c0c52a03d-1782585520-1782574720&remote=no_check_ip
 #EXTINF:-1 group-title="Texas - Bangla" logo="http://10.99.99.99/assets/images/SUN BANGLA HD1745033791.png",SUN BANGLA HD
-http://10.99.99.99:8082/SUN.BANGLA.HD/index.m3u8?token=0ac4fecc88808140e7be28f1b9f9e1ee00926dab-8b515aa59b1db7f22c8263b7e4299bbe-1782560675-1782549875&remote=no_check_ip
+http://10.99.99.99:8082/SUN.BANGLA.HD/index.m3u8?token=4603428f66978d09728a2a43a8f06a92adf40d22-cdf4768c163bb80eb04842928451753b-1782585520-1782574720&remote=no_check_ip
 #EXTINF:-1 group-title="Texas - Kids" logo="http://10.99.99.99/assets/images/SUPER HUNGAMA1745044022.png",SUPER HUNGAMA
-http://10.99.99.99:8082/SUPER.HUNGAMA/index.m3u8?token=2c1e8f3c2a985fd3a2da2fc55b96423758dcc227-3d0949d5dcf576802908eeab48348363-1782560675-1782549875&remote=no_check_ip
+http://10.99.99.99:8082/SUPER.HUNGAMA/index.m3u8?token=f5ff4f59bfe47e0ca567dfdb41c0b0d3662074d5-be29dc91654fa8935241989e6333652f-1782585520-1782574720&remote=no_check_ip
 #EXTINF:-1 group-title="Texas - Sports" logo="http://10.99.99.99/assets/images/T SPORTS1744972630.png",T SPORTS
-http://10.99.99.99:8082/T-SPORTS-HD/index.m3u8?token=ad10d6b5fd639c5d6b3cb1d2e31d72e9d2e90995-3a2a851a4f92b46dd2a12068c76126e4-1782560675-1782549875&remote=no_check_ip
+http://10.99.99.99:8082/T-SPORTS-HD/index.m3u8?token=470bd5e8b630df03f653ab94a447fa39c57f6a3e-0da0991512fcf7b6f8c00fcda79d5c2f-1782585520-1782574720&remote=no_check_ip
 #EXTINF:-1 group-title="Texas - English" logo="http://10.99.99.99/assets/images/TLC HD1745033484.png",TLC HD
-http://10.99.99.99:8082/TLC.HD/index.m3u8?token=518608d6ce319d0bd55b61468a2453d9ffa587f3-fe42a6b582811482ebc352d1c9cad3dc-1782560675-1782549875&remote=no_check_ip
+http://10.99.99.99:8082/TLC.HD/index.m3u8?token=e87159602c6c5a07d5e2c4549643b3b90d1c43b5-e1d21a4cc4ac09020c578e07a6071609-1782585520-1782574720&remote=no_check_ip
 #EXTINF:-1 group-title="Texas - English" logo="http://10.99.99.99/assets/images/TRAVEL XP1745043118.png",TRAVEL XP
-http://10.99.99.99:8082/TRAVELXP.HD/index.m3u8?token=3c30978afaf4bbd83940683915d9f890e3251828-c2bedac027b3931380fddcbde71bf5bc-1782560675-1782549875&remote=no_check_ip
+http://10.99.99.99:8082/TRAVELXP.HD/index.m3u8?token=c580304ea3fef3ee8a110da80fd5813ecd18f9c5-46660b3ccd2658733bddcf3916999559-1782585520-1782574720&remote=no_check_ip
 #EXTINF:-1 group-title="Texas - Bangla" logo="http://10.99.99.99/assets/images/ZEE BANGLA CINEMA1745040996.png",ZEE BANGLA CINEMA
-http://10.99.99.99:8082/ZEE.BANGLA.CINEMA/index.m3u8?token=a9c2010cc64129623acde30d52d7f133df51e6db-e68b4bf5c57ed167622222cdba246973-1782560675-1782549875&remote=no_check_ip
+http://10.99.99.99:8082/ZEE.BANGLA.CINEMA/index.m3u8?token=cce04fbceb56711ae46fb4e2db5b3cff78a8784e-4b8ef4d37a4f7941d788d3b8c08135f3-1782585520-1782574720&remote=no_check_ip
 #EXTINF:-1 group-title="Texas - Bangla" logo="http://10.99.99.99/assets/images/ZEE BANGLA HD1745033633.png",ZEE BANGLA HD
-http://10.99.99.99:8082/ZEE.BANGLA.HD/index.m3u8?token=f60accfd310937cc6ce15a3edb3fd4f5c861debb-0334b1bf0127c0dc45aa76536afb0f17-1782560675-1782549875&remote=no_check_ip
+http://10.99.99.99:8082/ZEE.BANGLA.HD/index.m3u8?token=ffa09b636c538b5cedac27cc2693e1cee17be6ba-253fe743e7a7f717fe9415f132547103-1782585520-1782574720&remote=no_check_ip
 #EXTINF:-1 group-title="Texas - English" logo="http://10.99.99.99/assets/images/ZEE CAFE HD1745040102.png",ZEE CAFE HD
-http://10.99.99.99:8082/ZEE.CAFE.HD/index.m3u8?token=bb7d21dd28d762c1460a42c47a2bfc902340ad0f-ddd63f289c60aa44c9f1317968de236b-1782560675-1782549875&remote=no_check_ip
+http://10.99.99.99:8082/ZEE.CAFE.HD/index.m3u8?token=d5625c8f54ceaeade14cc5ac517e180480fb0250-5ceb9be17aa019532232f1e779a79b8b-1782585520-1782574720&remote=no_check_ip
 #EXTINF:-1 group-title="Texas - Hindi" logo="http://10.99.99.99/assets/images/ZEE CINEMA HD1745033602.png",ZEE CINEMA HD
-http://10.99.99.99:8082/ZEE.CINEMA.HD/index.m3u8?token=ba7b9fefa4f84734d48670de425b8f5de3f91d46-cb17da23f15c69265e2358f231fceea1-1782560675-1782549875&remote=no_check_ip
+http://10.99.99.99:8082/ZEE.CINEMA.HD/index.m3u8?token=29b8fa132084a45aef0ae7cad1f80488dcbfeaa8-87d331556a3283d0be3467d2e2efaaf9-1782585521-1782574721&remote=no_check_ip
 #EXTINF:-1 group-title="Texas - Hindi" logo="http://10.99.99.99/assets/images/ZEE TV HD1745033383.png",ZEE TV HD
-http://10.99.99.99:8082/ZEE.TV.HD/index.m3u8?token=9f1a35f1abdcfcf78ebab5b3ecca9c85593316e5-2a6d34da22f11a03e1954c970498440c-1782560675-1782549875&remote=no_check_ip
+http://10.99.99.99:8082/ZEE.TV.HD/index.m3u8?token=5b303ca6221ca7a5e1c610aa3ae6aeeb33c91c9d-b540e61651fe2b5a62e69a37f4f30aa1-1782585521-1782574721&remote=no_check_ip
 #EXTINF:-1 group-title="Texas - Hindi" logo="http://10.99.99.99/assets/images/ZING1745042718.png",ZING
-http://10.99.99.99:8082/ZING.MUSIC/index.m3u8?token=49c99d46ad1dd2fb2f68905440597aeff4e4de76-aa4dddcc716d637a6514a8474ca953b9-1782560675-1782549875&remote=no_check_ip
+http://10.99.99.99:8082/ZING.MUSIC/index.m3u8?token=955423bdfc327abd46ff744ec7ed6e303f52bbdd-fa6250d2d8b488a89e6e341ca76728e5-1782585521-1782574721&remote=no_check_ip
 #EXTINF:-1 group-title="Texas - Hindi" logo="http://10.99.99.99/assets/images/ZOOM1745040961.png",ZOOM
-http://10.99.99.99:8082/ZOOM.MUSIC/index.m3u8?token=52add2f26d93b009cb0a14487202879a090f7152-b9c3f6612b30d9f14d0e7e28cba7bf7e-1782560675-1782549875&remote=no_check_ip
+http://10.99.99.99:8082/ZOOM.MUSIC/index.m3u8?token=ea72c7c86913f2680d40776427b73d1d14d6e147-f93d7aa5460f45fbf9dfc440e129053f-1782585521-1782574721&remote=no_check_ip
 #EXTINF:-1 group-title="LiveTV 172",Channel 1
 http://172.17.50.112:84/ant1001/video.m3u8
 #EXTINF:-1 group-title="LiveTV 172",Channel 2
